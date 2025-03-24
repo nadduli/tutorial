@@ -1,1 +1,1 @@
-# Go tutorials
+# Go tutorials for beginners
